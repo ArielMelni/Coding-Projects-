@@ -10,7 +10,7 @@ It continuously evicts keys from one hash table and inputs them into its second 
 2. The hash tables needed to grow in size
 3. The Bit Hash hashing function was reset. 
 
-finalProjectCompScieNew.py
+TriviaGame.py
 
 An educational and interactive game that utilizes draw.py to animate a spinner and create a question and answer-option page.
 Utilized two-dimensional lists to organize the questions, category, answer choice, and correct answer. 
